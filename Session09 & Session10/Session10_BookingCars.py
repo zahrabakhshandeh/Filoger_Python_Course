@@ -16,6 +16,7 @@ def help():
     display: show all Booking
     search: Search Booking
     cancel: Cancel Booking
+    
     details: show details of the project
     exit: exit\n"""
   print (help_text)
