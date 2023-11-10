@@ -1,0 +1,146 @@
+{
+  "New York": {
+    "current_condition": "Sunny",
+    "condition_percent": 80,
+    "forecast": [
+      {
+        "date": "2023-11-07",
+        "condition": "Partly Cloudy",
+        "high": 15,
+        "low": 8
+      },
+      {
+        "date": "2023-11-08",
+        "condition": "Rainy",
+        "high": 13,
+        "low": 6
+      },
+      {
+        "date": "2023-11-09",
+        "condition": "Sunny",
+        "high": 16,
+        "low": 7
+      },
+      {
+        "date": "2023-11-10",
+        "condition": "Windy",
+        "high": 12,
+        "low": 7
+      },
+      {
+        "date": "2023-11-11",
+        "condition": "Sunny",
+        "high": 14,
+        "low": 5
+      }
+    ]
+  },
+  "Los Angeles": {
+    "current_condition": "Rainy",
+    "condition_percent": 60,
+    "forecast": [
+      {
+        "date": "2023-11-07",
+        "condition": "Sunny",
+        "high": 28,
+        "low": 16
+      },
+      {
+        "date": "2023-11-08",
+        "condition": "Sunny",
+        "high": 29,
+        "low": 18
+      },
+      {
+        "date": "2023-11-09",
+        "condition": "Cloudy",
+        "high": 25,
+        "low": 17
+      },
+      {
+        "date": "2023-11-10",
+        "condition": "Sunny",
+        "high": 27,
+        "low": 18
+      },
+      {
+        "date": "2023-11-11",
+        "condition": "Partly Cloudy",
+        "high": 24,
+        "low": 16
+      }
+    ]
+  },
+  "Chicago": {
+    "current_condition": "Sunny",
+    "condition_percent": 90,
+    "forecast": [
+      {
+        "date": "2023-11-07",
+        "condition": "Snowy",
+        "high": 0,
+        "low": -5
+      },
+      {
+        "date": "2023-11-08",
+        "condition": "Partly Cloudy",
+        "high": 3,
+        "low": -3
+      },
+      {
+        "date": "2023-11-09",
+        "condition": "Sunny",
+        "high": 2,
+        "low": -2
+      },
+      {
+        "date": "2023-11-10",
+        "condition": "Snowy",
+        "high": -1,
+        "low": -6
+      },
+      {
+        "date": "2023-11-11",
+        "condition": "Sunny",
+        "high": 1,
+        "low": -4
+      }
+    ]
+  },
+  "Miami": {
+    "current_condition": "Snowy",
+    "condition_percent": 50,
+    "forecast": [
+        {
+          "date": "2023-11-07", 
+          "condition": "Thunderstorms", 
+          "high": 30, 
+          "low": 24
+        },
+        {
+          "date": "2023-11-08",
+          "condition": "Rainy",
+          "high": 28,
+          "low": 23
+        },
+        {
+          "date": "2023-11-09",
+          "condition": "Cloudy",
+          "high": 29,
+          "low": 24
+        },
+        {
+          "date": "2023-11-10",
+          "condition": "Partly Cloudy",
+          "high": 31,
+          "low": 25
+        },
+        {
+          "date": "2023-11-11",
+          "condition": "Sunny",
+          "high": 32,
+          "low": 26
+        }
+    ]
+  }
+}
