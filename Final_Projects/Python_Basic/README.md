@@ -51,21 +51,9 @@ python pycommander.py
 - `-f`, `--file`: Specify a file name for the cat command.
 - `-a`, `--all`: Show all files and directories, including hidden ones.
 
-## Customization
-
-You can modify the `path.json` and `logs.log` files to customize the working directory and log preferences.
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your features or fixes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-Thank you to all the contributors and users of PyCommander. Your feedback and contributions make this tool better for everyone!
 
 ## Running the Tool
 
